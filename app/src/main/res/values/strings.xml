@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YandexMaps</string>
+    <string name="image">Image</string>
+    <string name="point_text">Point text</string>
+    <string name="empty_point_list">Вы еще не добавили ни одной точки</string>
+    <string name="my_points">Мои точки</string>
+    <string name="remove">Удалить</string>
+    <string name="edit">Изменить</string>
+    <string name="enter_title">Введите название!</string>
+    <string name="location_permission_required">Требуется разрешение на определение местоположения!</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="title_is_empty">Название пусто!</string>
+</resources>
